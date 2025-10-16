@@ -9,7 +9,7 @@ import org.springframework.cloud.netflix.eureka.server.EnableEurekaServer;
 public class ServiceDirectoryApplication {
 
 	public static void main(String[] args) {
-		//testing for jenkins
+		//testing for jenkins part 2 poll scm
 		SpringApplication.run(ServiceDirectoryApplication.class, args);
 	}
 
